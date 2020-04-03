@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30B30995-2476-4BD7-8604-658E09A975D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>formUsuario</RootNamespace>
+    <AssemblyName>formUsuario</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Autenticacao.cs" />
+    <Compile Include="Conexao.cs" />
+    <Compile Include="frmAlocacaoEquipamentoServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlocacaoEquipamentoServidor.Designer.cs">
+      <DependentUpon>frmAlocacaoEquipamentoServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioAlocacaoAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioAlocacaoAluno.Designer.cs">
+      <DependentUpon>frmRelatorioAlocacaoAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioAlocacaoServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioAlocacaoServidor.Designer.cs">
+      <DependentUpon>frmRelatorioAlocacaoServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioAlunos.Designer.cs">
+      <DependentUpon>frmRelatorioAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioEquipamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioEquipamentos.Designer.cs">
+      <DependentUpon>frmRelatorioEquipamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatoriosServidores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatoriosServidores.Designer.cs">
+      <DependentUpon>frmRelatoriosServidores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioUsuarios.Designer.cs">
+      <DependentUpon>frmRelatorioUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formLogin.Designer.cs">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlocacaoEquipamentoAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlocacaoEquipamentoAluno.Designer.cs">
+      <DependentUpon>frmAlocacaoEquipamentoAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAluno.Designer.cs">
+      <DependentUpon>frmAluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquipamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquipamento.Designer.cs">
+      <DependentUpon>frmEquipamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmServidor.Designer.cs">
+      <DependentUpon>frmServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gjmBanco.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gjmBanco.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gjmBancoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gjmBancoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="gjmBancoDataSet1.cs">
+      <DependentUpon>gjmBancoDataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="gjmBancoDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>gjmBancoDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAlocacaoEquipamentoServidor.resx">
+      <DependentUpon>frmAlocacaoEquipamentoServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioAlocacaoAluno.resx">
+      <DependentUpon>frmRelatorioAlocacaoAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioAlocacaoServidor.resx">
+      <DependentUpon>frmRelatorioAlocacaoServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioAlunos.resx">
+      <DependentUpon>frmRelatorioAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioEquipamentos.resx">
+      <DependentUpon>frmRelatorioEquipamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatoriosServidores.resx">
+      <DependentUpon>frmRelatoriosServidores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioUsuarios.resx">
+      <DependentUpon>frmRelatorioUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formLogin.resx">
+      <DependentUpon>formLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlocacaoEquipamentoAluno.resx">
+      <DependentUpon>frmAlocacaoEquipamentoAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAluno.resx">
+      <DependentUpon>frmAluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquipamento.resx">
+      <DependentUpon>frmEquipamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmServidor.resx">
+      <DependentUpon>frmServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <None Include="gjmBanco.xsc">
+      <DependentUpon>gjmBanco.xsd</DependentUpon>
+    </None>
+    <None Include="gjmBanco.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gjmBanco.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gjmBanco.xss">
+      <DependentUpon>gjmBanco.xsd</DependentUpon>
+    </None>
+    <None Include="gjmBancoDataSet.xsc">
+      <DependentUpon>gjmBancoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gjmBancoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gjmBancoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gjmBancoDataSet.xss">
+      <DependentUpon>gjmBancoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="gjmBancoDataSet1.xsc">
+      <DependentUpon>gjmBancoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="gjmBancoDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>gjmBancoDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="gjmBancoDataSet1.xss">
+      <DependentUpon>gjmBancoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="gjmBanco.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="gjmBanco_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>gjmBanco.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,183 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\formUsuario\formUsuario\obj\Debug\formUsuario.Form1.resources
+D:\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+D:\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+D:\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+D:\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+D:\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+C:\Users\User\Desktop\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+C:\Users\User\Desktop\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+C:\Users\User\Desktop\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+C:\Users\User\Desktop\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.Form1.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+C:\Users\IFSP\Documents\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+C:\Users\IFSP\Documents\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+C:\Users\IFSP\Documents\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+C:\Users\IFSP\Documents\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+C:\Users\IFSP\Documents\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.Form1.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmBuscaEquipamentoAlunoServidor.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+E:\Trabalho interdisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+F:\interDisciplinar\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+F:\interDisciplinar\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+F:\interDisciplinar\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+F:\interDisciplinar\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+F:\interDisciplinar\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+F:\interDisciplinar\formUsuario\formUsuario\obj\Debug\formUsuario.frmUsuario.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmUsuario.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+C:\Users\User\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmUsuario.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioEquipamentos.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\RdlCompile.cache
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\RdlCompile.compiled
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioUsuarios.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlunos.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatoriosServidores.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoAluno.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoServidor.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoAluno.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoServidor.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlunos.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioEquipamentos.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatoriosServidores.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioUsuarios.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmUsuario.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+D:\formUsuario\formUsuario\obj\Debug\RdlCompile.cache
+D:\formUsuario\formUsuario\obj\Debug\RdlCompile.compiled
+D:\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoServidor.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoServidor.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoServidor.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoAluno.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoServidor.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlunos.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioEquipamentos.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatoriosServidores.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioUsuarios.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmUsuario.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\RdlCompile.cache
+C:\Users\jonat\Downloads\formUsuario\formUsuario\formUsuario\obj\Debug\RdlCompile.compiled
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\bin\Debug\formUsuario.exe.config
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.exe
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.pdb
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\bin\Debug\gjmBanco.mdf
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\bin\Debug\gjmBanco_log.ldf
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\bin\Debug\formUsuario.exe
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\bin\Debug\formUsuario.pdb
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoServidor.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoAluno.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlocacaoServidor.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioAlunos.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioEquipamentos.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatoriosServidores.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmRelatorioUsuarios.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmUsuario.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.formLogin.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmAlocacaoEquipamentoAluno.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmAluno.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmEquipamento.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmPrincipal.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.frmServidor.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.Properties.Resources.resources
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\formUsuario.csproj.GenerateResource.Cache
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\RdlCompile.cache
+C:\Users\Guilherme Ferrari\Desktop\formUsuario\formUsuario\formUsuario\obj\Debug\RdlCompile.compiled
